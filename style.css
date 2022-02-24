@@ -1,0 +1,10 @@
+.link {
+    background-color: blue;
+    border-radius: 10px;
+    width: 250px;
+    margin-top: 15px;
+    font-size: medium;
+}
+.link :hover{
+    font-size: large;
+}
